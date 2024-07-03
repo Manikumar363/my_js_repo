@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop with work.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "MVC Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a backend API setup with dotenv,node.js,express.js,mongoDB",
+    url: "https://drive.google.com/drive/folders/1fNYLjSP2Afbhyiy1pA5Gx10WjZOodnUR",
   },
   {
-    title: "Web Development for Beginners",
+    title: "REFILL-PROJECT",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a clown website for instant charging at any time from anywhere.",
+    url: "https://manikumar363.github.io/RE-FILL-Project/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://manikumar363.github.io/My-Resume/",
   },
   {
     title: "GitHub Codespaces and github.dev",

@@ -94,7 +94,7 @@ li::marker {
 }
 
 a {
-  color: black;
+  color: rgb(0, 0, 0);
   text-decoration: none;
 }
 
@@ -123,3 +123,4 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
